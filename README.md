@@ -39,6 +39,7 @@ Use the Help button to access detailed instructions and the About section to lea
 
 Example
 If you enter the tickers AAPL, BTC-USD, AGG, the application will fetch the historical price data for Apple (AAPL), Bitcoin (BTC-USD), and the iShares Core U.S. Aggregate Bond ETF (AGG) and display the correlation matrix and a heatmap showing how these assets are correlated.
+![Screenshot 2024-12-04 222100](https://github.com/user-attachments/assets/2d02bf9e-e6b8-4ec5-8325-6856376471ad)
 
 
 If you enjoy this program, buy me a coffee https://buymeacoffee.com/siglabo
